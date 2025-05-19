@@ -1,0 +1,38 @@
+2025-05-19 23:35:39,972 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-19 23:35:39,972 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-19 23:35:39,973 - INFO -  * Restarting with stat
+2025-05-19 23:35:40,239 - WARNING -  * Debugger is active!
+2025-05-19 23:35:40,241 - INFO -  * Debugger PIN: 992-078-623
+2025-05-19 23:37:31,504 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-19 23:37:31,505 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-19 23:37:31,506 - INFO -  * Restarting with stat
+2025-05-19 23:37:31,744 - WARNING -  * Debugger is active!
+2025-05-19 23:37:31,746 - INFO -  * Debugger PIN: 992-078-623
+2025-05-19 23:37:44,954 - INFO - 127.0.0.1 - - [19/May/2025 23:37:44] "GET /api/pubs HTTP/1.1" 200 -
+2025-05-19 23:37:44,992 - WARNING - 404 error encountered.
+2025-05-19 23:37:44,993 - INFO - 127.0.0.1 - - [19/May/2025 23:37:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-19 23:38:54,664 - INFO -  * Detected change in 'C:\\Users\\wlkea\\OneDrive\\pub-api\\app.py', reloading
+2025-05-19 23:38:54,693 - INFO -  * Restarting with stat
+2025-05-19 23:38:54,950 - WARNING -  * Debugger is active!
+2025-05-19 23:38:54,952 - INFO -  * Debugger PIN: 992-078-623
+2025-05-19 23:38:58,019 - INFO -  * Detected change in 'C:\\Users\\wlkea\\OneDrive\\pub-api\\app.py', reloading
+2025-05-19 23:38:58,044 - INFO -  * Restarting with stat
+2025-05-19 23:38:58,295 - WARNING -  * Debugger is active!
+2025-05-19 23:38:58,298 - INFO -  * Debugger PIN: 992-078-623
+2025-05-19 23:39:01,973 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-19 23:39:01,973 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-19 23:39:01,974 - INFO -  * Restarting with stat
+2025-05-19 23:39:02,219 - WARNING -  * Debugger is active!
+2025-05-19 23:39:02,222 - INFO -  * Debugger PIN: 992-078-623
+2025-05-19 23:39:26,307 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-19 23:39:26,308 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-19 23:39:26,308 - INFO -  * Restarting with stat
+2025-05-19 23:39:26,552 - WARNING -  * Debugger is active!
+2025-05-19 23:39:26,555 - INFO -  * Debugger PIN: 992-078-623
+2025-05-19 23:40:04,519 - INFO - 127.0.0.1 - - [19/May/2025 23:40:04] "GET /api/pubs HTTP/1.1" 200 -
+2025-05-19 23:40:04,543 - WARNING - 404 error encountered.
+2025-05-19 23:40:04,543 - INFO - 127.0.0.1 - - [19/May/2025 23:40:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
