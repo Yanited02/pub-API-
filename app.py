@@ -3,6 +3,15 @@ from flask_cors import CORS
 import logging
 import datetime
 import os
+VALID_API_KEYS = ["SECRET123", "PUBLOVER456"]
+from flask import abort
+
+def check_api_key():
+    api_key = request.args.get('api_key')
+    if api_key not in VALID_API_KEYS:
+        logging.warning(f"Unauthorized access attempt with key: {api_key}")
+        abort(401, description="Invalid or missing API key.")
+
 
 app = Flask(__name__)
 CORS(app)
